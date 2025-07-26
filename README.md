@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasdik-rashid-taseen&label=Profile%20views&color=0e75b6&style=flat" alt="tasdik-rashid-taseen" /> </p>
 
-- 🌱 I’m currently learning **REACT, MS SQL SERVER**
+- 🌱 I’m currently learning **WordPress**
 
 - 💬 Ask me about **C, C++, JAVASCRIPT**
 
